@@ -1,17 +1,5 @@
-.links {
-  display: flex;
-  gap: 1rem;
-}
-
-.one-column {
-  display: flex;
-  flex-direction: column;
+.one-column .row {
   margin-left: 1rem;
-}
-
-.one-column, .two-columns, .three-columns, .five-columns {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .two-columns .column {
@@ -41,4 +29,5 @@
 
 .title {
   margin-top: 2rem;
+  margin-left: 1rem;
 }
