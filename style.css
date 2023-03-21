@@ -2,15 +2,15 @@
   margin-left: 1rem;
 }
 
-.two-columns .column {
+.two-columns .row .column {
   width: 50%;
 }
 
-.three-columns .column {
+.three-columns .row .column {
   width: 33.33%;
 }
 
-.five-columns .column {
+.five-columns .row .column {
   width: 20%;
 }
 
